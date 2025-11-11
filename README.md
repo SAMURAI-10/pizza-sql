@@ -1,2 +1,2 @@
-# pizza-sql
-###  objective to find
+# Pizza sales Data Analysis using SQL
+
