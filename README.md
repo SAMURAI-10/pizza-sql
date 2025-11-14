@@ -14,8 +14,9 @@ This is a guided MySQL project on Pizza sales of a local pizza store's operation
 
 The data for this project is sourced from the Kaggle dataset:
 
-- **Dataset Link:** [](https://github.com/Ayushi0214/pizza-sales---SQL/blob/main/pizza_sales.zip)
+- **Dataset Link:** https://github.com/Ayushi0214/pizza-sales---SQL/blob/main/pizza_sales.zip
 ## Schema
+
 
 ```sql
 
@@ -218,7 +219,7 @@ FROM
 
 ## Findings and Conclusion
 
-- **:** The dataset contains various types of Pizza falling under 4 different categories .
+- The dataset contains various types of Pizza falling under 4 different categories .
 - **Common Pizza orders:** Insights into the most common pizza orders provide an understanding of the pizza's target audience.
 - **Peak hours :** On Analysis it was found that most sales came between 12 pm -2 pm and 5 pm -8 pm.  
   
